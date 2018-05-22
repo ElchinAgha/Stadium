@@ -1,0 +1,15 @@
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\bin\Debug\Stadium2.exe.config
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\bin\Debug\Stadium2.exe
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\bin\Debug\Stadium2.pdb
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\bin\Debug\EntityFramework.dll
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\bin\Debug\EntityFramework.xml
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\obj\Debug\Stadium2.csprojAssemblyReference.cache
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\obj\Debug\Stadium2.Form1.resources
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\obj\Debug\Stadium2.Properties.Resources.resources
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\obj\Debug\Stadium2.csproj.GenerateResource.cache
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\obj\Debug\Stadium2.csproj.CoreCompileInputs.cache
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\obj\Debug\Stadium2.csproj.CopyComplete
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\obj\Debug\Stadium2.exe
+C:\Users\MR.AGHAYEV\source\repos\Stadium2\Stadium2\obj\Debug\Stadium2.pdb
